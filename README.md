@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me:
-I am a skilled QA Engineer and Web/App Developer with experience in automation testing, functional testing, and full-stack development. Currently working as a QA intern at Dotpitch Technologies, I have tested various apps for security, performance, and functionality using Selenium, Postman, and Rest Assured. I have also developed and tested applications like Glint Glam (MERN e-commerce), VEGiS (grocery delivery), and Whale Alert (React Native app). My technical expertise includes React, Node.js, Fastify
+I am a skilled QA Engineer and Web/App Developer with experience in automation testing, functional testing, and full-stack development. Currently working as a QA intern at Dotpitch Technologies, I have tested various apps for security, performance, and functionality using Selenium, Postman, and Rest Assured. I have also developed and tested applications like Glint Glam (MERN e-commerce), VEGiS (grocery delivery), and Whale Alert (React Native app).
 
 
 ## 🌐 Socials:
